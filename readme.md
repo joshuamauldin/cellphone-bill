@@ -10,5 +10,5 @@ In our case, the person went over on their texts and we're showing it on the bre
 
 The activity log has been simplified to show real names if the user syncs their contact information, and everything is in easy-to-read text. 
 
-I built this site to be responsive and it works on mobile devices. I used Bootstrap, as well as wrote a little JavaScript to toggle the various activity logs. The CSS and JavaScript files were combined and minified so that the site would perform better. I wasn't able to combine everything, but I did it on everything that would live on the server. I thought integrating with Stripe would be a fun idea, and you'll find that on the site.
+I built this site to be responsive and it works on mobile devices. I used Bootstrap, Grunt, as well as wrote a little JavaScript to toggle the various activity logs. The CSS and JavaScript files were combined and minified so that the site would perform better. I wasn't able to combine everything, but I did it on everything that would live on the server. I thought integrating with Stripe would be a fun idea, and you'll find that on the site.
 
